@@ -12,11 +12,10 @@ const config: QuartzConfig = {
     pageTitleSuffix: "Chandni's Digital Garden",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
+    analytics: { 
+      provider: 'google', tagId: 'G-V75BM2EXFJ' },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "chandni.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,
