@@ -15,18 +15,18 @@ Current occupations:
 Summary of educational and professional background
 ```mermaid
 	gantt
-    dateFormat  YYYY-MM-DD
-    tickInterval 1year
+    dateFormat  YYYY
+    axisFormat %Y
     excludes    weekends
     todayMarker stroke-width:2px,stroke:#0f0,opacity:0.5
     section Research
-        Researcher         :2021-01-01, 2025-01-01
+        Researcher         :active, 2021, 2024
     section Design
-        Product Designer   : 2020-01-01, 2023-05-01
-        Founder, Tactopus : 2016-06-01, 2022-06-01
-        M.Des (HCI)            :b1, 2015-06-01, 2017-06-01
+        Product Designer   :2020, 2023
+	    Founder, Tactopus  :2016, 2021
+        M.Des (HCI)        :2015, 2017
     section Architecture
-	    Architect         :2012-06-01, 2015-06-01
+	    Architect         :2012, 2015
 ```
 ---
 ### Art Shop
