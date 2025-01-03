@@ -41,6 +41,9 @@ I recently moved my site to an Obsidian-Quartz-GitHub set up, and with it there 
 
 ---
 
+> [!note] 
+> I recently moved my site to an Obsidian-Quartz-GitHub set up, and with it there have been some changes in how I document and share my work. On this site, there's less of the design portfolio content or research case studies. My recent work is better suited for writing in the essay form, both on this website and on [Dialectic](https://dialectic.in/)  
+
 
 
 
