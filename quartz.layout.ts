@@ -33,7 +33,7 @@ export const defaultContentPageLayout: PageLayout = {
         title: "Recent Writing",
         limit: 4,
         filter: (f) =>
-          f.slug!.startsWith("posts/") && f.slug! !== "posts/index" && !f.frontmatter?.noindex,
+          f.slug!.startsWith("Posts/") && f.slug! !== "Posts/index" && !f.frontmatter?.noindex,
         linkToMore: "posts/" as SimpleSlug,
       }),
     ),
@@ -41,8 +41,8 @@ export const defaultContentPageLayout: PageLayout = {
       Component.RecentNotes({
         title: "Recent Notes",
         limit: 2,
-        filter: (f) => f.slug!.startsWith("thoughts/"),
-        linkToMore: "thoughts/" as SimpleSlug,
+        filter: (f) => f.slug!.startsWith("Daily_Notes/"),
+        linkToMore: "Daily_Notes/" as SimpleSlug,
       }),
     ),
     Component.DesktopOnly(Component.TableOfContents()),
