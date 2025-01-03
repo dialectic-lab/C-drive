@@ -15,26 +15,26 @@ Current occupations:
 Summary of educational and professional background
 ```mermaid
 	gantt
-    dateFormat  YYYY
+    dateFormat  YYYY-MM
     axisFormat %Y
     excludes    weekends
     todayMarker stroke-width:2px,stroke:#0f0,opacity:0.5
     section Research
-        Researcher         :active, 2021, 2024
+        Researcher         :active, 2021-01, 2024-01
     section Design
-        Product Designer   :2020, 2023
-	    Founder, Tactopus  :2016, 2021
-        M.Des (HCI)        :2015, 2017
+        Product Designer   :2020-01, 2023-01
+	    Founder, Tactopus  :2016-06, 2021-01
+        M.Des (HCI)        :after a1, 2015-06, 2017-06
     section Architecture
-	    Architect         :2012, 2015
+	    Architect         :a1, 2012-06, 2015-06
 ```
+
 ---
 ### Art Shop
 Also this is my art shop: [Whalesong](https://whalesong.printify.me/products) 
 I create art quite regularly, but update the store sporadically. You can sign up [here](https://whalesongstudio.substack.com/) to be updated on new products.
 
 ---
-```[!note] 
+[!note] 
 I recently moved my site to an Obsidian-Quartz-GitHub set up, and with it there have been some changes in how I document and share my work. On this site, there's less of the design portfolio content or research case studies. My recent work is better suited for writing in the essay form, both on this website and on [Dialectic](https://dialectic.in/)  
-```
 
