@@ -34,14 +34,15 @@ export const defaultContentPageLayout: PageLayout = {
         limit: 4,
         filter: (f) =>
           f.slug!.startsWith("Posts/") && f.slug! !== "Posts/index" && !f.frontmatter?.noindex,
-        linkToMore: "posts/" as SimpleSlug,
+        linkToMore: "Posts/" as SimpleSlug,
       }),
     ),
     Component.DesktopOnly(
       Component.RecentNotes({
-        title: "Recent Notes",
-        limit: 2,
-        filter: (f) => f.slug!.startsWith("Notes/"),
+        title: "Recent Writing",
+        limit: 4,
+        filter: (f) =>
+          f.slug!.startsWith("Notes/") && f.slug! !== "Notes/index" && !f.frontmatter?.noindex,
         linkToMore: "Notes/" as SimpleSlug,
       }),
     ),
