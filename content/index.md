@@ -29,26 +29,27 @@ Summary of educational and professional background
 	    Architect         :a1, 2012-06, 2015-06
 ```
 
----
-### Art Shop
-Also this is my art shop: [Whalesong](https://whalesong.printify.me/products) 
+
+> [!quote] Art Shop
+> Also this is my art shop: [Whalesong](https://whalesong.printify.me/products) 
 I create art quite regularly, but update the store sporadically. You can sign up [here](https://whalesongstudio.substack.com/) to be updated on new products.
 
----
-
-[!note] 
-I recently moved my site to an Obsidian-Quartz-GitHub set up, and with it there have been some changes in how I document and share my work. On this site, there's less of the design portfolio content or research case studies. My recent work is better suited for writing in the essay form, both on this website and on [Dialectic](https://dialectic.in/)  
-
----
-
-> [!note] 
-> I recently moved my site to an Obsidian-Quartz-GitHub set up, and with it there have been some changes in how I document and share my work. On this site, there's less of the design portfolio content or research case studies. My recent work is better suited for writing in the essay form, both on this website and on [Dialectic](https://dialectic.in/)  
 
 
+> [!todo] Daily Notes
+> January 2025:
+> [[2025-01-02]]
+> [[2025-01-03]]
+> 
+> 
+> Planner
+> [[Task Dashboard]]
 
-### Planner
-[[Task Dashboard]]
 
-### Daily Notes
-Jan 2, 2025[[2025-01-02]]
-Jan 3, 2025[[2025-01-03]]
+> [!note] Site Notes
+> I recently moved my site to an Obsidian-Quartz-GitHub set up, and with it there have been some changes in how I document and share my work. On this site, there's less of the design portfolio content or research case studies. My recent work is better suited for writing in the essay form, both on this website and on [Dialectic](https://dialectic.in/) 
+
+
+
+
+
