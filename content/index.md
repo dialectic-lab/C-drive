@@ -46,4 +46,9 @@ I recently moved my site to an Obsidian-Quartz-GitHub set up, and with it there 
 
 
 
+### Planner
+[[Task Dashboard]]
 
+### Daily Notes
+Jan 2, 2025[[2025-01-02]]
+Jan 3, 2025[[2025-01-03]]
