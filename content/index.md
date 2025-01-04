@@ -24,26 +24,27 @@ Summary of educational and professional background
     section Design
         Product Designer   :2020-01, 2023-01
 	    Founder, Tactopus  :2016-06, 2021-01
-        M.Des (HCI)        :after a1, 2015-06, 2017-06
+        M.Des (HCI)        :2015-06, 2017-06
     section Architecture
-	    Architect         :a1, 2012-06, 2015-06
+	    Architect         :2012-06, 2014-06
 ```
 
 
+
+
+
 > [!quote] Art Shop
-> Also this is my art shop: [Whalesong](https://whalesong.printify.me/products) 
+> This is my art shop: [Whalesong](https://whalesong.printify.me/products) 
 I create art quite regularly, but update the store sporadically. You can sign up [here](https://whalesongstudio.substack.com/) to be updated on new products.
-
-
 
 > [!todo] Daily Notes
 > January 2025:
-> [[2025-01-02]]
-> [[2025-01-03]]
-> 
-> 
-> Planner
-> [[Task Dashboard]]
+> > [[2025-01-02]]
+> > [[2025-01-03]] 
+
+ >[!todo] Planner
+> > [[Task Dashboard]]
+
 
 
 > [!note] Site Notes
